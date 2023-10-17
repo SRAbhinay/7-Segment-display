@@ -59,6 +59,7 @@ seven_segment_patterns = {
           '###',
           '  #',
           '###']
+
 }
 
 def display_number(number):
