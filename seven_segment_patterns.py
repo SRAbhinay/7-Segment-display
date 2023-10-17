@@ -1,4 +1,5 @@
 seven_segment_patterns = {
+    
     '0': ['###', 
           '# #', 
           '# #', 
